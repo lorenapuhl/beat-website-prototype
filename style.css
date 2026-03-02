@@ -147,7 +147,9 @@ p {                               /* Styles for paragraph elements */
 .benefit-item:hover {
   transform: translateY(-2px); /* Subtle lift effect */
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  opacity: 0.8;
 }
+
 
 /* --- COMPUTER SCREENS (Desktop adjustments) --- */
 @media (min-width: 769px) {
