@@ -33,7 +33,8 @@ h1 {                             /* Styles for the main heading */
   font-weight: 400;               /* Tenor Sans typically uses a regular weight for this look */
   letter-spacing: 0.2em;          /* Adds wide spacing to match the 'Z A N N A' style */
   color: var(--header-color);   
-  font-size: 7vw;
+  font-size: 9vw;
+  letter-spacing: 2px;
 }
 
 body {
