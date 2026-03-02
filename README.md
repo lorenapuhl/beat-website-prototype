@@ -32,4 +32,4 @@ website-prototype/
 
 ## Live Demo
 
-Visit the live site: [https://lorenapuhl.github.io/tierra-website-prototype/](https://lorenapuhl.github.io/tierra-website-prototype/)
+Visit the live site: [https://lorenapuhl.github.io/beat-website-prototype/](https://lorenapuhl.github.io/beat-website-prototype/)
