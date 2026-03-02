@@ -12,10 +12,10 @@
   --header-color: rgba(255, 255, 255, 1); 
   
   /* Transparent grey to keep the 'dark room' feel */
-  --banner-color: rgba(25, 25, 25, 0.9); 
+  --banner-color:  rgba(255, 255, 255, 1);
   
   /* Pure White for banner font */
-  --banner-font: rgba(255, 255, 255, 1);
+  --banner-font: rgba(25, 25, 25, 0.9);
   
   /* Font color in cta buttons and hamburger manu bars */
   --contrast: black;
@@ -622,7 +622,7 @@ p {                               /* Styles for paragraph elements */
 /* Styles for the call-to-action button */
 .cta-button {
   background: var(--banner-font); /* Replace this with your button color, e.g., #ff0000 for red */
-  color: var(--contrast); 
+  color: var(--banner-color); 
   padding: 10px 20px;      /* Space inside button: 10px top/bottom, 20px left/right */
   text-decoration: none;    /* Removes underline from link */
   border-radius: 50px;     /* Makes button edges super round for pill shape (use 5px for slightly round, 0 for square) */
