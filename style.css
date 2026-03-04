@@ -3,7 +3,7 @@
 
 :root {
   /* True Pitch Black */
-  --background-color: rgba(0, 0, 0, 1);  
+  --background-color: rgba(18, 18, 18, 1); 
   
   /* Bright white for high contrast */
   --font-color: rgba(255, 255, 255, 1);           
@@ -322,7 +322,7 @@ p {                               /* Styles for paragraph elements */
   padding: 0.6em 1.2em;
   border-radius: var(--radius);
   font-family: inherit;
-  font-weight: 500;
+  font-weight: bold;
   cursor: pointer;
   font-size: 0.85rem; /* Slightly smaller base font */
 }
@@ -549,7 +549,7 @@ p {                               /* Styles for paragraph elements */
   border-radius: var(--radius);
   font-family: inherit;
   font-size: 0.85em;
-  font-weight: 500;
+  font-weight: bold;
   transition: opacity 0.3s ease;
   letter-spacing: 1px;
   cursor: pointer;
@@ -823,5 +823,9 @@ p {                               /* Styles for paragraph elements */
   
   nav ul {
     gap: 5px;  /* Minimum gap between nav items */
+  }
+
+  .btn-reserve {
+  font-weight: 500;
   }
 }
